@@ -48,7 +48,7 @@ It is a web application built using HTML, CSS, JavaScript, and Firebase that sim
 ---
 
 ## 🔗 Live Demo
-[View Telegram Marketplace]([https://anfoureight.github.io/portfolio-website/](https://anfoureight.github.io/telegram-marketplace/))
+[View Telegram Marketplace](https://anfoureight.github.io/telegram-marketplace/)
 
 ---
 
