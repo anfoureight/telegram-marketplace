@@ -9,19 +9,19 @@ It is a web application built using HTML, CSS, JavaScript, and Firebase that sim
 ---
 
 ## 🚀 Features
-. User-friendly marketplace UI
-. Product listing layout
-. Basic client-side interactions
-. Data storage using Firebase
-. Responsive structure (basic)
+- User-friendly marketplace UI
+- Product listing layout
+- Basic client-side interactions
+- Data storage using Firebase
+- Responsive structure (basic)
 
 ---
 
 ## 🛠️ Technologies
-. HTML
-. CSS
-. JS
-. Google Firebase
+- HTML
+- CSS
+- JS
+- Google Firebase
 
 ---
 
@@ -63,16 +63,16 @@ Practice project focused on building a simple marketplace web application and le
 ---
 
 ## 🚧 Future Improvements
-. Add full authentication system (login/register)
-. Improve responsive design
-. Add real-time chat or messaging features
-. Enhance UI/UX design
-. Improve database structure in Firebase
+- Add full authentication system (login/register)
+- Improve responsive design
+- Add real-time chat or messaging features
+- Enhance UI/UX design
+- Improve database structure in Firebase
 
 ---
 
 ## 📚 What I learned
-. Working with JavaScript for interactivity
-. Structuring a multi-folder web project
-. Basic backend integration using Firebase
-. Organizing a GitHub project professionally
+- Working with JavaScript for interactivity
+- Structuring a multi-folder web project
+- Basic backend integration using Firebase
+- Organizing a GitHub project professionally
